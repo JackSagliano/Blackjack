@@ -1,6 +1,6 @@
-# 🃏 BlackjackPackage
+# 🃏 Blackjack
 
-**BlackjackPackage** is a graphical implementation of the classic Blackjack card game, developed in the Wolfram Language (Mathematica). It provides an interactive and visual experience, allowing players to enjoy Blackjack directly within a Mathematica notebook.
+**Blackjack** is a graphical implementation of the classic Blackjack card game, developed in the Wolfram Language (Mathematica). It provides an interactive and visual experience, allowing players to enjoy Blackjack directly within a Mathematica notebook.
 
 ## 🎮 Features
 
